@@ -48,7 +48,7 @@ def fib(numero, x):
 
 y = []
 fib(15,y)
-
+'''
 #Plotar Matplotlib
 V = 0.08
 xmin,xmax,ymin,ymax = 0,1,0,1
@@ -61,5 +61,5 @@ g2 = (V/(x1*x2)) - 0.8
 g3 = x1 - 0.1
 g4 = x2 - 0.1
 plt.contour(x1, x2, f, cmap="viridis")
-#plt.show()
+#plt.show()'''
 
