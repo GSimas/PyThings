@@ -1,6 +1,8 @@
 PyThings
 ===========================
 
+> "O que nos salva é dar um passo e outro ainda" - **Antoine de Saint-Exupéry**
+
 ***What***: Python repository, example codes, tests, courses assignments (Udacity, Coursera, edX, etc.), developments.
 
 ***Who***: Gustavo S. S. - Electronics Engineering - Federal University of Santa Catarina (UFSC)
