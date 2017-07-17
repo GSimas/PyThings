@@ -1,0 +1,1 @@
+print("Hello, World, this is the first assignment of Python for Everybody Course")
