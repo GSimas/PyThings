@@ -110,3 +110,23 @@ def different_evenness2(s):
 print(different_evenness2("2 1 8"))
 print(different_evenness2("7 1 3 2 9 1"))
 print(different_evenness2("11 3 0 19 1"))
+
+# 4) Invert sentences
+def spin_words(string):
+    splitted = string.split()
+    new_sentence = []
+    nsentence = " "
+    for i in splitted:
+        if len(i) >= 5:
+            letter = list(i)
+            new_word = [letter[len(letter)-1-j] for j in range(len(letter))]
+            neword = ""
+            neword = neword.join(new_word)
+            new_sentence.append(neword)
+            print(neword)
+        else:
+            new_sentence.append(i)
+    return nsentence.join(new_sentence)
+
+o = spin_words("Pare de inverter minhas frases!")
+print("New Word is:", o)
