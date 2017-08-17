@@ -1,0 +1,8 @@
+pisca_led
+sysclk-in-1
+reset_n-in-1
+enable-in-1
+leds-out-16
+#
+timer-16
+leds_i-16
