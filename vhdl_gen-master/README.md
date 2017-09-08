@@ -1,3 +1,10 @@
+# Observações
+
+Repositório de [@andrecp](https://github.com/andrecp), "pseudo-forkeado" para o referente repositório para alterações em gerador de vhdl por linguagem Python. Para maiores informações e código atualizado/original, visite o rep raíz na referência.
+
+Referência: [vhdl_gen](https://github.com/andrecp/vhdl_gen)
+
+
 *Scroll down for the Portuguese version*
 
 ===
