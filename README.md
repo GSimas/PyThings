@@ -5,9 +5,7 @@ PyThings
 
 ***What***: Python repository, example codes, tests, courses assignments (Udacity, Coursera, edX, etc.), developments.
 
-***Who***: Gustavo S. S. - Electronics Engineering - Federal University of Santa Catarina (UFSC)
-
-***Keywords***: Statistics, Data Analysis, Machine Learning, Deep Learning, Big Data, Internet of Things, Data Science
+***Keywords***: Statistics, Data Analysis, Computer Science, Machine Learning, Deep Learning, Big Data, Internet of Things, Data Science
 
 ## Dependencies
 - **Python 3.5.x (64bit)**
@@ -19,6 +17,9 @@ PyThings
 - Theano
 - Tensorflow
 - SciKit Learn
+- Urllib (Requests)
+- Beautiful Soup
+- Built-in libaries (time, os, regular expressions, etc.)
 
 Install dependencies with *pip* or *conda*
 
@@ -31,5 +32,8 @@ Install dependencies with *pip* or *conda*
 - [Drop Connect](http://cs.nyu.edu/~wanli/dropc/)
 - [Rodrigo B](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 - [Cristopher Olah](http://colah.github.io/)
+- [Professor Charles Severance](http://dr-chuck.com/)
+- [Coursera Python Specialization](https://www.coursera.org/specializations/python)
+- [edX Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-6)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2000px-Python_logo_and_wordmark.svg.png)
