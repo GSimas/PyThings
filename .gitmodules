@@ -1,3 +1,6 @@
 [submodule "Examples/DeepLearning"]
 	path = Examples/DeepLearning
 	url = https://github.com/paulobatista-phd/deep-learning
+[submodule "Examples/VhdlGen"]
+	path = Examples/VhdlGen
+	url = https://github.com/andrecp/vhdl_gen
