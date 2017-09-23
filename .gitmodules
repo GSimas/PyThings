@@ -1,0 +1,3 @@
+[submodule "Examples/DeepLearning"]
+	path = Examples/DeepLearning
+	url = https://github.com/paulobatista-phd/deep-learning
