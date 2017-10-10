@@ -27,7 +27,9 @@ workbook = xlsxwriter.Workbook('2018nyny.xlsx')
 worksheet = workbook.add_worksheet()
 worksheet.write(0,col,"Team")
 worksheet.write(0,col+1,"FRC")
-worksheet.write(0,col+1,"Awards")
+worksheet.write(0,col+2,"Awards")
+worksheet.write(0,col+3,"City")
+worksheet.write(0,col+4,"Country")
 url_format = workbook.add_format({
     'font_color': 'blue',
     'underline':  1
@@ -45,6 +47,8 @@ for item in info:
         if (award['award_type'] == 1 or award['award_type'] == 2):
             award_count += 1
     worksheet.write(row, col + 2, award_count)
+    worksheet.write(row, col + 3, item['city'])
+    worksheet.write(row, col + 4, item['country'])
     count += 1
     row += 1
     award_count = 0
