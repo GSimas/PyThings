@@ -23,7 +23,7 @@ info = json.loads(fh)
 
 count, row, col, award_count = 0,1,0,0
 
-workbook = xlsxwriter.Workbook('2018nyny.xlsx')
+workbook = xlsxwriter.Workbook('2018NYNY.xlsx')
 worksheet = workbook.add_worksheet()
 worksheet.write(0,col,"Team")
 worksheet.write(0,col+1,"FRC")
