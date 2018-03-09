@@ -1,4 +1,4 @@
-PyThings
+🐍 PyThings
 ===========================
 
 > "O que nos salva é dar um passo e outro ainda" - **Antoine de Saint-Exupéry**
